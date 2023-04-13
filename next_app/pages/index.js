@@ -256,7 +256,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Mint Your NFT</h1>
           <div className={styles.description}>
-            It&#39;s an NFT collection for developers in Crypto.
+            It&#39;s an NFT collection for developers in web3.
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/20 have been minted
@@ -268,9 +268,6 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
-      </footer>
     </div>
   );
 }
