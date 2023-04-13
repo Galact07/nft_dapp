@@ -338,7 +338,7 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Mint Your NFT</h1>
           <div className={styles.description}>
             It&#39;s an NFT collection for developers in Crypto.
           </div>
